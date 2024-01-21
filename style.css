@@ -1,0 +1,61 @@
+.logo-text {
+    background: linear-gradient(90deg, #785EFD 1.65%, #2BAA93 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.active {
+    color: #FFF;
+    border-radius: 8px;
+    background: linear-gradient(90deg, #27C3A7 4.33%, #4BBF49 100%);
+    padding: 4px 15px;
+}
+
+.signup-btn {
+    background: linear-gradient(90deg, #795FFD 0%, #3518C9 100%);
+    color: #FFF;
+    border-radius: 8px;
+    padding: 4px 15px;
+    border: none;
+
+}
+
+.banner-popup {
+    max-width: 70%;
+    width: max-content;
+}
+
+.banner-text {
+    background: linear-gradient(90deg, #3ED6BB 14.46%, #785DFC 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.banner-btn {
+    border-radius: 5px;
+    background: linear-gradient(90deg, #2AC4A0 0%, #6C77EF 100%);
+    color: #FFF;
+    padding: 5px 20px;
+    border: none;
+}
+
+.features {
+    background: linear-gradient(90deg, #785EFD 0%, #371BCB 100%);
+}
+
+.features h1 {
+    background: linear-gradient(90deg, #38FFDC 23.68%, #FFE44B 72.34%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.color {
+    color: #381BCB;
+}
+
+.half-width {
+    max-width: 50%;
+}
